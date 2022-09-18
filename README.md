@@ -1,8 +1,8 @@
 # vxheavenvirusbackup
 Contains the virusses placed on the site.
 
-Virusses are not always for damaging purposes, malware is art.
-3251 art pieces.
+Alot of people see malware as a danger, but for me, its just fascinating. I love to
+mess around in VM'S with those malware pieces. Now you can mess with it too.
 
 .tgz format (use 7zip or something else): https://drive.google.com/file/d/1bagU7EBLLPyf57kTekU2xGpuK8h8S1c1/view?usp=sharing
 unzipped (many got flagged dont use ):https://drive.google.com/drive/folders/1U71Gh4zgU1iyuxCV21NnipMM7ISi6bel?usp=sharing
